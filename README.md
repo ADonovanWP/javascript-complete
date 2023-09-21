@@ -15,3 +15,5 @@ JavaScript Refresher
 > - Truthy and Falsy Values
 > - Equality Operators: == vs. ===
 > - Logical Operators
+> - **_Did a Challenge using truthy falsy values, equality operators, and logical operators._**
+> -
