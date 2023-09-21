@@ -6,6 +6,19 @@
 
 */
 
+const scoreDolphins = (96 + 18 + 89) / 3;
+const scoreKoalas = (88 + 91 + 110) / 3;
+console.log(scoreDolphins, scoreKoalas);
+
+if (scoreKoalas > scoreDolphins) {
+  console.log("Koalas win the trophy!");
+} else if (scoreDolphins > scoreKoalas) {
+  console.log("Dolphins win the trophy!");
+} else console.log("Both teams win a trophy");
+
+/*
+
+* DIFFERENT WAY ON HOW TO COME UP WITH THE VALUE
 const dolphinsScores = [96, 108, 89];
 const koalasScores = [88, 91, 110];
 
@@ -29,3 +42,4 @@ if (winner === "Dolphins") {
 } else {
   console.log("Both win a trophy");
 }
+*/
