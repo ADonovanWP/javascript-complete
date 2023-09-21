@@ -16,4 +16,5 @@ JavaScript Refresher
 > - Equality Operators: == vs. ===
 > - Logical Operators
 > - **_Did a Challenge using truthy falsy values, equality operators, and logical operators._**
-> -
+> - Switch Statements
+> - Statement and Expressions
