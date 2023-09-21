@@ -14,3 +14,4 @@ JavaScript Refresher
 > - Type Conversion and Coercion
 > - Truthy and Falsy Values
 > - Equality Operators: == vs. ===
+> - Logical Operators
