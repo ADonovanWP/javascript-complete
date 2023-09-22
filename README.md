@@ -18,3 +18,4 @@ JavaScript Refresher
 > - **_Did a Challenge using truthy falsy values, equality operators, and logical operators._**
 > - Switch Statements
 > - Statement and Expressions
+> - Conditional (Ternary) Operator
